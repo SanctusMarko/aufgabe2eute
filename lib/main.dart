@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aufgabe2/screens/main_screen.dart'; // Zamijeni 'aufgabe2' stvarnim imenom projekta
+import 'package:aufgabe2/screens/main_screen.dart';
 
 void main() {
   runApp(const MyApp());

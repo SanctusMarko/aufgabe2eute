@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aufgabe2/screens/widgets/alert_button.dart'; // Zamijeni 'aufgabe2' stvarnim imenom projekta
+import 'package:aufgabe2/screens/widgets/alert_button.dart';
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
